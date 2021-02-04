@@ -1,2 +1,8 @@
-public static main (String[] args){
+public class newClass{
+    public static void main (String[] args){
+
+
+        
+    }
+
 }
