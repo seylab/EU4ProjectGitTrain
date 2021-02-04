@@ -6,5 +6,6 @@ public class Main {
         System.out.println("added new something");
         System.out.println("added new something");
         System.out.println("added new something");
+        System.out.println("added new something");
     }
 }
